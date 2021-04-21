@@ -1,1 +1,3 @@
-# Monitering-multivariate-NB-using-Machine-Learning-methods
+# Monitering Multivariate Negative Binomial with Machine Learning Methods
+
+This is my master degree project.
